@@ -5,11 +5,11 @@ I build web apps. Software Engineer, Mentor, Consultant
 -------------------------------------------------------
 
 * 🌍  I'm based in Tbilisi, Georgia. Going to move to Tel Aviv, Israel
-* 🖥️  See my portfolio at [https://rolg.in](http://rolg.in)
-* ✉️  You can contact me at [irolgin@gmail.com](mailto:irolgin@gmail.com)
+* 🖥️  Take a look at my personal page at [https://rolg.in](http://rolg.in)
+* 📫  You can contact me at [irolgin@gmail.com](mailto:irolgin@gmail.com)
 * 🧠  I'm learning a couple of frameworks and the system design
 * 🤝  I'm open to collaborating on thrilling projects as engineer, consultant, tech lead
-* ⚡  ❤️ Monorepos, cyber-sportsman, gym enthusiast
+* ⚡️   ❤️ Monorepos, cyber-sportsman, gym enthusiast
 
 ### Skills
 
