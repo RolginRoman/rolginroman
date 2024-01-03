@@ -4,7 +4,7 @@ Hi 👋 My name is Roman Rolgin
 I build web apps. Software Engineer, Mentor, Consultant
 -------------------------------------------------------
 
-* 🌍  I'm based in Tbilisi, Georgia. Going to move to Tel Aviv, Israel
+* 🌍  I'm based in Tbilisi, Georgia.
 * 🖥️  Take a look at my personal page at [https://rolg.in](http://rolg.in)
 * 📫  You can contact me at [irolgin@gmail.com](mailto:irolgin@gmail.com)
 * 🧠  I'm learning a couple of frameworks and the system design
